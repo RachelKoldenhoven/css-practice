@@ -1,0 +1,40 @@
+p {
+  line-height: 1.5;
+  margin-bottom: 10px;
+}
+
+img {
+  max-width: 100%;
+}
+
+.post {
+  border: 1px solid rgba(000,000,000,0.2);
+  padding: 10px;
+  max-width: 650px;
+  border-radius: 0 3px 3px 3px;
+}
+
+.post > h2 {
+  margin: 0;
+  padding: 0;
+}
+
+/* Your Code Goes Under This Line */
+div {
+  border: 2px solid;
+  height: 200px;
+  width: 200px;
+
+}
+
+.full {
+  background-color: black;
+}
+
+.circle {
+  border-radius: 50%;
+}
+
+.outline {
+
+}
