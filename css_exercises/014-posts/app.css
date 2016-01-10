@@ -38,3 +38,16 @@ img {
 }
 
 /* Code Under This Line */
+
+.services {
+  border: 2px solid red;
+}
+
+.posts {
+  border: 2px solid yellow;
+  height: auto;
+}
+
+
+
+

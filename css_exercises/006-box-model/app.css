@@ -9,26 +9,43 @@ img {
 }
 /* Code Under This Line */
 
-.section {
+section {
+  width: 100%;
+  height: 200px;
+}
 
+.box-model {
+  border: 2px solid white;
 }
 
 .a {
   background-color: yellow;
   width: 50%;
-  margin-left: auto;
-  margin-right: auto;
+  height: 75%;
+  margin: 3% auto;
 }
 
 .b {
   background-color: orange;
+  width: 95%;
+  height: 70%;
+  position: relative;
+  left: 10px;
 }
 
 .c {
   background-color: black;
+  width: 90%;
+  height: 65%;
+  position: relative;
+  left: 15px;
 }
 
 .d {
   background-color: blue;
-  padding: 20px;
+  width: 85%;
+  height: 60%;
+  position: relative;
+  left: 20px;
+ 
 }

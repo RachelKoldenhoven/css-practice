@@ -33,3 +33,15 @@ body {
 .post-title {
   font-size: 2rem;
 }
+
+.container img{
+  max-width: 500px;
+}
+
+.sidebar {
+  width: 28%;
+}
+
+.posts {
+  width: 58%;
+}
