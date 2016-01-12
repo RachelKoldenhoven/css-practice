@@ -5,7 +5,7 @@
 }
 
 .main a {
-  float: left;
+  display: inline-block;
 }
 
 .main a, .droptbtn {
